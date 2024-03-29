@@ -1,0 +1,14 @@
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\bin\Debug\net8.0\Cwiczenia_2 Kontenery.exe
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\bin\Debug\net8.0\Cwiczenia_2 Kontenery.deps.json
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\bin\Debug\net8.0\Cwiczenia_2 Kontenery.runtimeconfig.json
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\bin\Debug\net8.0\Cwiczenia_2 Kontenery.dll
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\bin\Debug\net8.0\Cwiczenia_2 Kontenery.pdb
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.dll
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\refint\Cwiczenia_2 Kontenery.dll
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.pdb
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.genruntimeconfig.cache
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\ref\Cwiczenia_2 Kontenery.dll
