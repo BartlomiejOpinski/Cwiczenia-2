@@ -12,9 +12,9 @@ ContainerL conzx = new ContainerL(1500.0, 200.0,2000.0,500.0,3000.0);
 ContainerC conzxc = new ContainerC(1500.0, 200.0,2000.0,500.0,3000.0);
 ContainerL z = new ContainerL(1500.0, 200.0,2000.0,500.0,3000.0);
 Console.WriteLine(z.loadWeightKg);
+Console.WriteLine("wil it work");
 
 z.EmptyLoad();
-z.LoadLoad(3001.0);
 
 Console.WriteLine(conC.serialNumber);
 Console.WriteLine(z.serialNumber);

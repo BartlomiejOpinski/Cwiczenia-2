@@ -12,3 +12,4 @@ C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwi
 C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.pdb
 C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.genruntimeconfig.cache
 C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\ref\Cwiczenia_2 Kontenery.dll
+C:\Users\Bartek\Desktop\APBD ITN\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\Cwiczenia_2 Kontenery\obj\Debug\net8.0\Cwiczenia_2 Kontenery.sourcelink.json
