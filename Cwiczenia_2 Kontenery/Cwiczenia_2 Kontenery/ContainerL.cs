@@ -1,8 +1,9 @@
 using System.Runtime.CompilerServices;
+using Cwiczenia_2_Kontenery.CustomExceptions;
 
 namespace Cwiczenia_2_Kontenery;
 
-public class ContainerL : Container
+public class ContainerL : Container, IHazardNotifier
 {
 
 

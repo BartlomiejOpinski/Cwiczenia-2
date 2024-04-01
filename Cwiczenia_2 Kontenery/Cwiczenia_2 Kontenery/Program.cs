@@ -15,7 +15,7 @@ Console.WriteLine(z.loadWeightKg);
 Console.WriteLine("wil it work");
 
 z.EmptyLoad();
-
+z.LoadLoad(30000);
 Console.WriteLine(conC.serialNumber);
 Console.WriteLine(z.serialNumber);
 Console.WriteLine(z.loadWeightKg);
